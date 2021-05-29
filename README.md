@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# imafree
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://imafree.netlify.app/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
